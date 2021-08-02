@@ -17,7 +17,7 @@ The simplest but least useful way to obtain the code is using the Github .zip fe
 
 ### Git client
 
-The more complicated but infinitely more useful way is to use a 'git' client.
+The more complicated but infinitely more useful way is to use a 'git' clien
 
 We recommend and support our users using the smartgit client, obtainable at [smartgit](http://www.syntevo.com/smartgit/). After installing it, create a new file folder where you want to host the code, right click on that folder and click on "Open in Smartgit".
 
